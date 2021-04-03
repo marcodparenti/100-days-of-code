@@ -14,3 +14,9 @@
 **Today's Progress**: Basic CSS styling; change color, fonts, margin, etc. using classes, id, etc.
 
 **Thoughts:** Lots of info but simple; not really coding but just learning using tutorials
+
+### Day 2: April 3th, 2021
+
+**Today's Progress**: Gone deep into Applied Visual Design course
+
+**Thoughts:** Lots of info but simple; not really coding but just learning using tutorials. 
