@@ -26,3 +26,9 @@
 **Today's Progress**: Completed Applied Visual Design course
 
 **Thoughts:** Lots of info but simple; not really coding but just learning using tutorials. 
+
+### Day 4: April 6th, 2021
+
+**Today's Progress**: Completed Applied Accessibility course
+
+**Thoughts:** It starts to be a little bit boring... I probably need some more complex project to deal with
