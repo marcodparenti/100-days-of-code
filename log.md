@@ -32,3 +32,9 @@
 **Today's Progress**: Completed Applied Accessibility course
 
 **Thoughts:** It starts to be a little bit boring... I probably need some more complex project to deal with
+
+### Day 5: April 7th, 2021
+
+**Today's Progress**: Completed all courses of Responsive web design curriculum; now it's time to test with some "real" projects...
+
+**Thoughts:** 
