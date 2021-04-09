@@ -38,3 +38,8 @@
 **Today's Progress**: Completed all courses of Responsive web design curriculum; now it's time to test with some "real" projects...
 
 **Thoughts:** 
+### Day 6: April 9th, 2021
+
+**Today's Progress**: Started to work on the first Responsive Web Design Project (Tribute page) on Codepen.io
+
+**Thoughts:** write simple html from scratch is harder than I thought, but also funny
