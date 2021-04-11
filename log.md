@@ -43,3 +43,9 @@
 **Today's Progress**: Started to work on the first Responsive Web Design Project (Tribute page) on Codepen.io
 
 **Thoughts:** write simple html from scratch is harder than I thought, but also funny
+
+### Day 7: April 11th, 2021
+
+**Today's Progress**: completed the first web design project! A tribute page. https://codepen.io/marcodparenti/pen/VwPyapQ
+
+**Thoughts:** I did it! :) First very very simple project, but completed from scratch and (for the first time) w/o using tools such as wordpress, etc.
