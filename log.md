@@ -49,3 +49,9 @@
 **Today's Progress**: completed the first web design project! A tribute page. https://codepen.io/marcodparenti/pen/VwPyapQ
 
 **Thoughts:** I did it! :) First very very simple project, but completed from scratch and (for the first time) w/o using tools such as wordpress, etc.
+
+### Day 8: April 12th, 2021
+
+**Today's Progress**: Started to work on Survey form of the Responsive Web Design Project (2/5)
+
+**Thoughts:** 
