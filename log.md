@@ -55,3 +55,9 @@
 **Today's Progress**: Started to work on Survey form of the Responsive Web Design Project (2/5)
 
 **Thoughts:** 
+
+### Day 9: April 13th, 2021
+
+**Today's Progress**: Completed HTML part on survey form; started with CSS
+
+**Thoughts:** CSS is harder than I thought, maybe I need just a little exercise
