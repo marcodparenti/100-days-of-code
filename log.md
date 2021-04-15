@@ -61,3 +61,15 @@
 **Today's Progress**: Completed HTML part on survey form; started with CSS
 
 **Thoughts:** CSS is harder than I thought, maybe I need just a little exercise
+
+### Day 10: April 14th, 2021
+
+**Today's Progress**: struggling with CSS styling of my survey
+
+**Thoughts:** spend some time formatting HTML is needed to easily apply CSS
+
+### Day 11: April 15th, 2021
+
+**Today's Progress**: struggling with CSS styling of my survey (again)
+
+**Thoughts:** I started learning the CSS "philosophy" (maybe)...
