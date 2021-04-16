@@ -73,3 +73,11 @@
 **Today's Progress**: struggling with CSS styling of my survey (again)
 
 **Thoughts:** I started learning the CSS "philosophy" (maybe)...
+
+### Day 12: April 16th, 2021
+
+**Today's Progress**: Finished my survey page... terrible graphics but it's working! https://codepen.io/marcodparenti/pen/ZELxzyg Also started to work on new project, the product landing page
+
+**Thoughts:** I'm going to go fast on styling, that's not my main interest
+
+
