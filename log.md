@@ -80,4 +80,15 @@
 
 **Thoughts:** I'm going to go fast on styling, that's not my main interest
 
+### Day 13: April 17th, 2021
+
+**Today's Progress**:Started to work on the product landing page of the Responsive Web Design Project (3/5). 
+
+**Thoughts:** my HTML is getting better (more organized and clear to read/modify)
+
+### Day 14: April 18th, 2021
+
+**Today's Progress**: Completed the HTML part of product landing page, now started CSS styling.
+
+
 
