@@ -90,5 +90,12 @@
 
 **Today's Progress**: Completed the HTML part of product landing page, now started CSS styling.
 
+### Day 15: April 19th, 2021
+
+**Today's Progress**: CSS styling of the product page
+
+### Day 16: April 20th, 2021
+
+**Today's Progress**: CSS styling of product page (cont.). Maybe I started to understand the logic behind CSS...
 
 
