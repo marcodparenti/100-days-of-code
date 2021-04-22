@@ -105,6 +105,9 @@
 ### Day 18: April 22th, 2021
 
 **Today's Progress**: completed product landing page https://codepen.io/marcodparenti/pen/LYxBpOx Terrible  graphics but who cares... 
+Started and completed the technical documentation page: https://codepen.io/marcodparenti/pen/MWJZjKP The HTML part quite easy, style copied from template (just read it and understand it, but I don't want to spend much time on web page styling in CSS and I would like to move further to something more interesting
+
+
 
 
 
