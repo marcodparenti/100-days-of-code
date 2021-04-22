@@ -98,4 +98,14 @@
 
 **Today's Progress**: CSS styling of product page (cont.). Maybe I started to understand the logic behind CSS...
 
+### Day 17: April 21th, 2021
+
+**Today's Progress**: CSS styling of product page (cont.). Or maybe not... struggling with margins and pagination :(
+
+### Day 18: April 22th, 2021
+
+**Today's Progress**: completed product landing page https://codepen.io/marcodparenti/pen/LYxBpOx Terrible  graphics but who cares... 
+
+
+
 
