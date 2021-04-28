@@ -113,6 +113,22 @@
 ### Day 20: April 24th, 2021
 **Today's Progress**: Started to work on the personal portfolio of the Responsive Web Design Project (5/5).
 
+### Day 21: April 25th, 2021 
+
+**Today's Progress**: Work on personal portfolio
+
+### Day 22: April 26th, 2021 
+
+**Today's Progress**: Work on personal portfolio
+
+### Day 23: April 27th, 2021 
+
+**Today's Progress**: Give up on personal portfolio; the HTML part is working but the style is rubbish, but I lost any interest in page styling... https://codepen.io/marcodparenti/pen/vYgvXqW
+
+### Day 24: April 28th, 2021 
+
+**Today's Progress**: Started the Javascript curriculum of FCC
+
 
 
 
